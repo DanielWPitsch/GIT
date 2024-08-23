@@ -1,5 +1,5 @@
 # GIT
 
-git add .
-git commit - m "primeiro commit"
-git push
+git add . \
+git commit - m "primeiro commit" \
+git push \
